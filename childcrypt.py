@@ -10,7 +10,7 @@ with strong cryptographic properties, including:
 - Binary data support
 - Authenticated encryption option
 
-Author: Improved by AI Assistant (Original by Julio Oña)
+Author: Julio Oña <thinmanj@gmail.com> (Improved by AI Assistant)
 License: MIT
 """
 
