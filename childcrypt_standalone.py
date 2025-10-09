@@ -10,7 +10,7 @@ with strong cryptographic properties using only Python standard library:
 - Binary data support
 - Authenticated encryption option using HMAC
 
-Author: Julio Oña <thinmanj@gmail.com> (Improved by AI Assistant)
+Author: Julio Ona <thinmanj@gmail.com> (Improved by AI Assistant)
 License: MIT
 """
 

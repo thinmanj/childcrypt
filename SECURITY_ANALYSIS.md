@@ -234,6 +234,6 @@ The implementation successfully addresses all identified vulnerabilities and inc
 - Production Ready: ⚠️ **Use Standard Libraries** (N/A)
 
 ---
-**Author**: Julio Oña <thinmanj@gmail.com>  
+**Author**: Julio Ona <thinmanj@gmail.com>  
 **Security Analysis**: AI Assistant  
-**Repository**: https://github.com/juliosdutra/childcrypt
+**Repository**: https://github.com/thinmanj/childcrypt

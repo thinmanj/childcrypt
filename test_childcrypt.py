@@ -9,7 +9,7 @@ This test suite covers:
 - Performance regression tests
 - Compatibility tests
 
-Author: Julio Oña <thinmanj@gmail.com> (Tests by AI Assistant)
+Author: Julio Ona <thinmanj@gmail.com> (Tests by AI Assistant)
 License: MIT
 """
 

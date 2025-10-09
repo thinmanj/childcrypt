@@ -256,7 +256,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
-- Original ChildCrypt by Julio Oña <thinmanj@gmail.com> (2013)
+- Original ChildCrypt by Julio Ona <thinmanj@gmail.com> (2013)
 - Security improvements and modernization by AI Assistant
 - Inspired by ChaCha20 and other modern stream ciphers
 
