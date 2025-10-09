@@ -236,4 +236,4 @@ The implementation successfully addresses all identified vulnerabilities and inc
 ---
 **Author**: Julio Oña <thinmanj@gmail.com>  
 **Security Analysis**: AI Assistant  
-**Repository**: https://github.com/thinmanj/childcrypt
+**Repository**: https://github.com/juliosdutra/childcrypt
